@@ -4,7 +4,7 @@
 
 <h4 align="left">Sobre mim:</h4>
 - 🤝 Trabalho com desenvolvimento front-end, utilizando o framework Angular <br/>
-- 👯 Atuo na empresa IZII. <br/>
+- 👯 Atuo na empresa <a href="https://www.izii.io/" target="_blank">Izii</a>. <br/>
 - 🌱 Meu objetivo hoje é construir uma base sólida de conhecimento e me manter em constante evolução. <br/>
 
 <h4> Como me encontrar? </h4>
