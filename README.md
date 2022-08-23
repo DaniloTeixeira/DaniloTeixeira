@@ -41,5 +41,5 @@
 </div>
 
 <div align="center">
-  <p>Danilo Rodrigues Teixeira</p>
+  <p>💻</p>
 </div>
