@@ -4,7 +4,7 @@
 
 <h4 align="left">Sobre mim:</h4>
 - 🤝 Trabalho com desenvolvimento front-end, utilizando o framework Angular <br/> <br/>
-- 👯 Atuo como Desenvolvedor Front-end Angular na empresa <a href="https://www.picpay.com/" target="_blank">Itaú Unibanco 🧡</a>. <br/> <br/>
+- 👯 Atuo como Desenvolvedor Front-end Angular na empresa <a href="https://www.itau.com.br/" target="_blank">Itaú Unibanco🧡</a>. <br/> <br/>
 - 🌱 Meu objetivo hoje é construir uma base sólida de conhecimento e me manter em constante evolução. <br/> <br/>
 
 <h4> Como me encontrar? </h4>
