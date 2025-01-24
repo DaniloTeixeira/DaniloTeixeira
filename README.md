@@ -7,11 +7,8 @@
 - 👯 I’m a Front-end Software Engineer at <a href="https://lendwell.ie/" target="_blank">LendWell</a>. <br/> <br/>
 - 🌱 My goal is to build a solid knowledge foundation and stay in constant growth. <br/> <br/>
 
-<h4> How to find me? </h4>
-- 💬 danilo.rt@outlook.com <br/>
-
-
-
+<h4>How to find me?</h4>
+- 💬 <a href="mailto:danilo.rt@outlook.com">danilo.rt@outlook.com</a> <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
