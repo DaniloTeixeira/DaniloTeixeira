@@ -3,12 +3,12 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"> -->
 
 <h4 align="left">About me:</h4>
-- 🤝 I work with front-end development using the Angular framework. <br/> <br/>
-- 👯 I’m a Front-end Software Engineer at <a href="https://lendwell.ie/" target="_blank">LendWell</a>. <br/> <br/>
-- 🌱 My goal is to build a solid knowledge foundation and stay in constant growth. <br/> <br/>
+▸ 🅰️ I work with front-end development using the Angular framework. <br/> <br/>
+▸ 👨🏽‍💻 I’m a Front-end Software Engineer at <a href="https://lendwell.ie/" target="_blank">LendWell</a>. <br/> <br/>
+▸ 🧠 My goal is to build a solid knowledge foundation and stay in constant growth. <br/> <br/>
 
 <h4>How to find me?</h4>
-- 💬 <a href="mailto:danilo.rt@outlook.com">danilo.rt@outlook.com</a> <br/>
+<a href="mailto:danilo.rt@outlook.com">✉︎ danilo.rt@outlook.com</a> <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
